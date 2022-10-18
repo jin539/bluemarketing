@@ -116,6 +116,7 @@ body {
     line-height: 59px;
     position: relative;
     color: #464748;
+    z-index: 10;
 }
 
 .banner_h::before {
